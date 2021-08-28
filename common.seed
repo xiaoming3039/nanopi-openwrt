@@ -9,7 +9,6 @@ CONFIG_TARGET_ROOTFS_EXT4FS=y
 # CONFIG_SIGNED_PACKAGES is not set
 CONFIG_DROPBEAR_ECC_FULL=y
 CONFIG_DROPBEAR_ECC=y
-CONFIG_PACKAGE_luci-app-adguardhome=y
 CONFIG_PACKAGE_luci-app-argon-config=y
 CONFIG_PACKAGE_luci-app-aria2=y
 CONFIG_PACKAGE_luci-app-arpbind=y
